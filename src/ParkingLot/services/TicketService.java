@@ -36,7 +36,7 @@ public class TicketService {
 //        5. ticket object creation
 //        6. save ticket object in the database
 
-
-        return null;
+        Ticket ticket = null;
+        return ticket;
     }
 }
